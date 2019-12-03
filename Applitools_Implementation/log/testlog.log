@@ -1,0 +1,74 @@
+2019-11-15 15:30:10,202 - Step_Defination.Explore_Navigation_Step -INFO - Fetching URL and Opening the Url
+2019-11-15 16:11:51,309 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-15 16:19:27,960 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-15 16:19:30,026 - Step_Defination.Login_Step_Validation -INFO - Assertion Failed
+2019-11-15 16:19:30,027 - Step_Defination.Login_Step_Validation -INFO - User Provide Invalid Username or Password
+2019-11-15 16:23:34,062 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-15 16:23:41,188 - Step_Defination.Login_Step_Validation -INFO - Assertion Failed
+2019-11-15 16:23:41,190 - Step_Defination.Login_Step_Validation -INFO - User Provide Invalid Username or Password
+2019-11-15 16:24:37,901 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-15 16:24:45,640 - Step_Defination.Login_Step_Validation -INFO - Assertion Failed
+2019-11-15 16:24:45,640 - Step_Defination.Login_Step_Validation -INFO - User Provide Invalid Username or Password
+2019-11-15 16:25:38,036 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-15 16:26:12,458 - Step_Defination.Login_Step_Validation -INFO - Assertion Passed
+2019-11-15 16:26:12,458 - Step_Defination.Login_Step_Validation -INFO - User is able to login to Linkedin Application
+2019-11-15 16:53:22,521 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-15 16:54:19,990 - Step_Defination.Login_Step_Validation -INFO - Assertion Passed
+2019-11-15 16:54:19,990 - Step_Defination.Login_Step_Validation -INFO - User is able to login to Linkedin Application
+2019-11-15 16:55:34,980 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-15 16:56:30,255 - Step_Defination.Login_Step_Validation -INFO - Assertion Passed
+2019-11-15 16:56:30,256 - Step_Defination.Login_Step_Validation -INFO - User is able to login to Linkedin Application
+2019-11-15 16:58:22,958 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-15 16:59:35,887 - Step_Defination.Login_Step_Validation -INFO - Assertion Passed
+2019-11-15 16:59:35,887 - Step_Defination.Login_Step_Validation -INFO - User is able to login to Linkedin Application
+2019-11-15 17:54:46,270 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-15 17:55:36,058 - Step_Defination.Login_Step_Validation -INFO - Assertion Passed
+2019-11-15 17:55:36,059 - Step_Defination.Login_Step_Validation -INFO - User is able to login to Linkedin Application
+2019-11-15 17:56:27,676 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-15 17:57:27,912 - Step_Defination.Login_Step_Validation -INFO - Assertion Passed
+2019-11-15 17:57:27,913 - Step_Defination.Login_Step_Validation -INFO - User is able to login to Linkedin Application
+2019-11-15 18:05:37,919 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-15 18:07:05,033 - Step_Defination.Login_Step_Validation -INFO - Assertion Passed
+2019-11-15 18:07:05,034 - Step_Defination.Login_Step_Validation -INFO - User is able to login to Linkedin Application
+2019-11-15 18:12:04,712 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-15 18:12:52,774 - Step_Defination.Login_Step_Validation -INFO - Assertion Passed
+2019-11-15 18:12:52,774 - Step_Defination.Login_Step_Validation -INFO - User is able to login to Linkedin Application
+2019-11-15 18:29:28,955 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-15 18:31:09,050 - Step_Defination.Login_Step_Validation -INFO - Assertion Passed
+2019-11-15 18:31:09,051 - Step_Defination.Login_Step_Validation -INFO - User is able to login to Linkedin Application
+2019-11-15 18:31:57,215 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-15 18:33:42,658 - Step_Defination.Login_Step_Validation -INFO - Assertion Passed
+2019-11-15 18:33:42,660 - Step_Defination.Login_Step_Validation -INFO - User is able to login to Linkedin Application
+2019-11-15 18:35:24,371 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-15 18:37:22,703 - Step_Defination.Login_Step_Validation -INFO - Assertion Passed
+2019-11-15 18:37:22,704 - Step_Defination.Login_Step_Validation -INFO - User is able to login to Linkedin Application
+2019-11-15 18:39:44,629 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-15 18:40:44,675 - Step_Defination.Login_Step_Validation -INFO - Assertion Failed
+2019-11-15 18:40:44,675 - Step_Defination.Login_Step_Validation -INFO - User Provide Invalid Username or Password
+2019-11-15 18:42:45,511 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-15 18:43:28,549 - Step_Defination.Login_Step_Validation -INFO - Assertion Failed
+2019-11-15 18:43:28,553 - Step_Defination.Login_Step_Validation -INFO - User Provide Invalid Username or Password
+2019-11-15 18:45:17,572 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-15 18:48:05,149 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-15 18:57:37,234 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-15 19:07:37,842 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-26 15:58:53,095 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-26 18:33:38,897 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-26 18:40:12,858 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-26 18:56:00,210 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-26 18:56:58,483 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-26 19:00:50,883 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-26 19:04:02,911 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-26 19:06:20,485 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-26 19:09:49,482 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-26 19:19:04,379 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-26 19:22:18,398 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-26 19:29:04,750 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-26 19:34:54,436 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-26 19:38:42,184 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-26 19:46:34,277 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-26 19:59:19,258 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-26 20:03:14,515 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-26 20:06:55,841 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-26 20:10:29,502 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
+2019-11-26 21:28:30,222 - Step_Defination.Login_Step_Validation -INFO - Fetching URL and Opening the Url
