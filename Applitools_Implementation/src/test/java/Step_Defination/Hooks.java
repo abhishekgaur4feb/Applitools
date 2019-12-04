@@ -41,10 +41,10 @@ public class Hooks{
 		String Browsername=prop.getProperty("browser");
 		
 		if(Browsername.equals("chrome")){
-			System.out.println("Called openBrowser");
+			/*System.out.println("Called openBrowser");
 			System.setProperty("webdriver.chrome.driver","driver//chromedriver.exe");
 			driver = new ChromeDriver();
-			driver.manage().deleteAllCookies();
+			driver.manage().deleteAllCookies();*/
 				
 		}
 		else if(Browsername.equals("firefox")){
