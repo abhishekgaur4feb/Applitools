@@ -61,7 +61,7 @@ public class Hooks{
 	/**
 	 * Embed a screenshot in test report if test is marked as failed
 	 */
-	public void embedScreenshot(Scenario scenario) throws IOException {
+	public void embedScreenshot(Scenario scenario) throws IOException {/*
 
 		if(scenario.isFailed()) {
 			try {
@@ -78,6 +78,6 @@ public class Hooks{
 		}
 				driver.quit();
 
-	}
+	*/}
 
 }
